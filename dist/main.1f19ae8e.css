@@ -13,7 +13,6 @@ ol, ul {
 }
 
 #app1 {
-    border: 1px solid red;
     width: 50vw;
     height: 50vh;
 }
@@ -21,7 +20,6 @@ ol, ul {
 
 }
 #app2 {
-    border: 1px solid green;
 }
 #app2 .tab-bar{
     display: flex;
@@ -43,6 +41,39 @@ ol, ul {
 #app2 .tab-content > li.active {
     display: block;
 }
+#app3 {}
+
+#app3 .square {
+    border: 1px solid red;
+    margin-top: 10vw;
+    margin-left: 10vw;
+    width: 10vw;
+    height: 10vw;
+    transition: transform 1s;
+}
+#app3 .square.active {
+    transform: translateX(15vw);
+}
+
+#app4 {}
+@keyframes change {
+    0% {
+        background: red;
+    }
+    100% {
+        background: blue;
+    }
+}
+#app4 .circle {
+    border: 1px solid greenyellow;
+    width: 20vw;
+    height: 20vw;
+    border-radius: 50%;
+}
+#app4 .circle.active {
+    animation: change 1s infinite alternate linear;
+}
+
 body {
     overflow: hidden;
 }
@@ -53,6 +84,7 @@ body > .page {
 body > .page > section {
     width: 50vw;
     height: 50vh;
+    border: 1px solid gray;
 }
 
 /*# sourceMappingURL=/main.1f19ae8e.css.map */
