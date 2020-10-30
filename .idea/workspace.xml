@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c3dc714-3fea-4137-b833-63ff9329b158" name="Default Changelist" comment="" />
+    <list default="true" id="1c3dc714-3fea-4137-b833-63ff9329b158" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app1.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app2.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app3.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app4.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app4.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,12 +81,23 @@
       <workItem from="1604037221276" duration="5693000" />
       <workItem from="1604049819890" duration="303000" />
       <workItem from="1604050148896" duration="864000" />
-      <workItem from="1604051044168" duration="10480000" />
+      <workItem from="1604051044168" duration="13378000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="566" y="0" key="#HTML" timestamp="1604047644804">
@@ -75,9 +120,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="206" y="95" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1604060176349" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1604054499682">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1604068364668">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1604054499682" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1604068364668" />
   </component>
 </project>
